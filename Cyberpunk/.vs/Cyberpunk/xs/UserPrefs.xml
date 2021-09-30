@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/NewPlayer.cs">
+    <Files>
+      <File FileName="Assets/Script/NewPlayer.cs" Line="156" Column="68" />
+      <File FileName="Assets/Script/ParallaxBaground.cs" />
+      <File FileName="Assets/Script/EnemyCannon.cs" />
+      <File FileName="Assets/Script/Cannonball.cs" />
+      <File FileName="Assets/Script/DotEnemy.cs" />
+      <File FileName="Assets/Script/CameraConstantWidht.cs" />
+      <File FileName="Assets/Script/CameraController.cs" />
+      <File FileName="Assets/Script/CarEnter.cs" />
+      <File FileName="Assets/Script/Spawner.cs" />
+      <File FileName="Assets/Script/EnemyCar.cs" />
+      <File FileName="Assets/Script/RotationEnemy.cs" />
+      <File FileName="Assets/Script/ChunckPlacer.cs" />
+      <File FileName="Assets/Script/Chunck.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cyberpunk" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="NewPlayer.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f5309765-6ecf-461a-bdfc-182152946da0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

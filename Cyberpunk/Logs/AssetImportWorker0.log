@@ -1,0 +1,346 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/nazarpolishchuk/Documents/Cyberpunk
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49943
+Successfully changed project path to: /Users/nazarpolishchuk/Documents/Cyberpunk
+/Users/nazarpolishchuk/Documents/Cyberpunk
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/nazarpolishchuk/Documents/Cyberpunk/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-30 10:48:55.245 Unity[1250:36743] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2021-09-30 10:48:55.245 Unity[1250:36743] Metal devices available: 1
+2021-09-30 10:48:55.245 Unity[1250:36743] 0: Intel(R) UHD Graphics 617 (low power)
+2021-09-30 10:48:55.246 Unity[1250:36743] Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56250
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.16f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.16f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.004966 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 80.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.605 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2605ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (900ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (313ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (417ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (210ms)
+				ProcessInitializeOnLoadMethodAttributes (52ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 69.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.289 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2291ms)
+		BeginReloadAssembly (281ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1906ms)
+			LoadAssemblies (190ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (598ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (122ms)
+			SetupLoadedEditorAssemblies (743ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (70ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (516ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.8 MB.
+System memory in use after: 171.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2551.
+Total: 10.962111 ms (FindLiveObjects: 0.945585 ms CreateObjectMapping: 0.407472 ms MarkObjects: 9.455503 ms  DeleteObjects: 0.148795 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Script/Cannonball.cs
+  artifactKey: Guid(bd622489e296745cba32a83c4fd62f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Cannonball.cs using Guid(bd622489e296745cba32a83c4fd62f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc4143853f1f19911c76caae388eae0') in 0.959258 seconds 
+  Import took 0.967647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Script
+  artifactKey: Guid(71c5d18e6ce8f4ee99d6150082bfabc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(71c5d18e6ce8f4ee99d6150082bfabc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c9aee2e790bc6e9ee74f10326a214ad') in 0.002269 seconds 
+  Import took 0.009346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Script/CameraController.cs
+  artifactKey: Guid(c221f28d614d445af8f55832d3fcc78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/CameraController.cs using Guid(c221f28d614d445af8f55832d3fcc78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7637310b8b9e716a155a279d3b09139') in 0.003871 seconds 
+  Import took 0.013225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Script/CameraConstantWidht.cs
+  artifactKey: Guid(9844c493e63094bd78e913106f8d1ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/CameraConstantWidht.cs using Guid(9844c493e63094bd78e913106f8d1ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51411ecf97929079a26d9afd85f73b6') in 0.002555 seconds 
+  Import took 0.010514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.635882 seconds.
+  path: Assets/Script/CarEnter.cs
+  artifactKey: Guid(cb566233fc4e54cc790d3f83d83e2717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/CarEnter.cs using Guid(cb566233fc4e54cc790d3f83d83e2717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa8a731aba08f5deb4e38d5fabf6dc7c') in 0.003449 seconds 
+  Import took 0.011102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.191692 seconds.
+  path: Assets/Script/Chunck.cs
+  artifactKey: Guid(576da22f85e044c77a4289ce45c46db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Chunck.cs using Guid(576da22f85e044c77a4289ce45c46db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab64ec1b86a1479a4ba9b6c05d405a5') in 0.003513 seconds 
+  Import took 0.010572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/Script/Chunck.cs
+  artifactKey: Guid(576da22f85e044c77a4289ce45c46db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Chunck.cs using Guid(576da22f85e044c77a4289ce45c46db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab64ec1b86a1479a4ba9b6c05d405a5') in 0.006205 seconds 
+  Import took 0.022322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.036805 seconds.
+  path: Assets/Script/ChunckPlacer.cs
+  artifactKey: Guid(0d4e80716033246bfa1a88ab9b2cda82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/ChunckPlacer.cs using Guid(0d4e80716033246bfa1a88ab9b2cda82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffc398e4bc7565933969d31b22eb665') in 0.002470 seconds 
+  Import took 0.009599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001441 seconds.
+  path: Assets/Script/ChunckPlacer.cs
+  artifactKey: Guid(0d4e80716033246bfa1a88ab9b2cda82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/ChunckPlacer.cs using Guid(0d4e80716033246bfa1a88ab9b2cda82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffc398e4bc7565933969d31b22eb665') in 0.007334 seconds 
+  Import took 0.017811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.386354 seconds.
+  path: Assets/Script/DotEnemy.cs
+  artifactKey: Guid(f1079a750f44b4a8981f78fcf9519dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/DotEnemy.cs using Guid(f1079a750f44b4a8981f78fcf9519dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bac24a1c100186af202937fe67d84d') in 0.003668 seconds 
+  Import took 0.011304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.062330 seconds.
+  path: Assets/Script/EnemyCannon.cs
+  artifactKey: Guid(858ca099c1cc04259b4c16d931d8e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/EnemyCannon.cs using Guid(858ca099c1cc04259b4c16d931d8e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15ff31d6d054155b590f55ccebbd45e') in 0.002483 seconds 
+  Import took 0.009655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001369 seconds.
+  path: Assets/Script/EnemyCannon.cs
+  artifactKey: Guid(858ca099c1cc04259b4c16d931d8e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/EnemyCannon.cs using Guid(858ca099c1cc04259b4c16d931d8e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15ff31d6d054155b590f55ccebbd45e') in 0.004301 seconds 
+  Import took 0.013195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.535559 seconds.
+  path: Assets/Script/EnemyCar.cs
+  artifactKey: Guid(82d1cb0b543cb4a6ca9980ab0804b81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/EnemyCar.cs using Guid(82d1cb0b543cb4a6ca9980ab0804b81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4d21a9a4333ebda0087f791cdb6f69') in 0.003962 seconds 
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.247625 seconds.
+  path: Assets/Script/NewPlayer.cs
+  artifactKey: Guid(777cd6847332547a18833b226f331866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/NewPlayer.cs using Guid(777cd6847332547a18833b226f331866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74eef853e6b36dac0cef881ff67c162d') in 0.002464 seconds 
+  Import took 0.009823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007814 seconds.
+  path: Assets/Script/NewPlayer.cs
+  artifactKey: Guid(777cd6847332547a18833b226f331866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/NewPlayer.cs using Guid(777cd6847332547a18833b226f331866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74eef853e6b36dac0cef881ff67c162d') in 0.003673 seconds 
+  Import took 0.010662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.118231 seconds.
+  path: Assets/Script/ParallaxBaground.cs
+  artifactKey: Guid(573cc31d111bc4cdaab9bb48a3aee932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/ParallaxBaground.cs using Guid(573cc31d111bc4cdaab9bb48a3aee932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77ee4b86731aecc7fa042a2979a6ea8') in 0.004208 seconds 
+  Import took 0.011993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.669320 seconds.
+  path: Assets/Script/RotationEnemy.cs
+  artifactKey: Guid(709f10ec2829a471cacad91bd59ecf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/RotationEnemy.cs using Guid(709f10ec2829a471cacad91bd59ecf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ffb91999717c2aab84ccdd839bd939') in 0.003608 seconds 
+  Import took 0.012091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.883672 seconds.
+  path: Assets/Perfab
+  artifactKey: Guid(c2e1ea5de789b4e369c6e5313a207229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perfab using Guid(c2e1ea5de789b4e369c6e5313a207229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3666182fd6c229377e103e4501c7e988') in 0.001587 seconds 
+  Import took 0.008100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020899 seconds.
+  path: Assets/Perfab
+  artifactKey: Guid(c2e1ea5de789b4e369c6e5313a207229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perfab using Guid(c2e1ea5de789b4e369c6e5313a207229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3666182fd6c229377e103e4501c7e988') in 0.001822 seconds 
+  Import took 0.008603 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.955 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1955ms)
+		BeginReloadAssembly (223ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (114ms)
+		EndReloadAssembly (1634ms)
+			LoadAssemblies (178ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (535ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (102ms)
+			SetupLoadedEditorAssemblies (632ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (476ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.6 MB.
+System memory in use after: 175.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2553.
+Total: 5.165943 ms (FindLiveObjects: 0.286097 ms CreateObjectMapping: 0.115765 ms MarkObjects: 4.734730 ms  DeleteObjects: 0.027997 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
